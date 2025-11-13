@@ -1,0 +1,321 @@
+{
+  "racers": [
+    {
+      "id": 1,
+      "name": "Turbo Tails",
+      "number": "01",
+      "team": "Paws Racing",
+      "speed": 95,
+      "fluffiness": 88,
+      "age": 3,
+      "nationality": "🇬🇧",
+      "championships": 2,
+      "image": "🏎️",
+      "bio": "The reigning champion with aerodynamic ears and a low center of gravity. Known for aggressive cornering.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Lightning McFluff",
+      "number": "07",
+      "team": "Red Belly Racing",
+      "speed": 92,
+      "fluffiness": 97,
+      "age": 2,
+      "nationality": "🇺🇸",
+      "championships": 1,
+      "image": "⚡",
+      "bio": "Young prodigy with exceptional fluff-to-speed ratio. Sponsors include Premium Kibble Co.",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Sir Waddles III",
+      "number": "03",
+      "team": "Royal Stub Racing",
+      "speed": 78,
+      "fluffiness": 99,
+      "age": 5,
+      "nationality": "🇬🇧",
+      "championships": 0,
+      "image": "👑",
+      "bio": "Maximum fluffiness may impact aerodynamics, but his dignity is unmatched on the track.",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Zoom Zoom",
+      "number": "11",
+      "team": "Speedster Squad",
+      "speed": 98,
+      "fluffiness": 72,
+      "age": 4,
+      "nationality": "🇯🇵",
+      "championships": 3,
+      "image": "💨",
+      "bio": "Sacrificed fluff for pure velocity. Holds lap record at Barkcelona Circuit.",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Buttercup",
+      "number": "22",
+      "team": "Sweet Paws Racing",
+      "speed": 85,
+      "fluffiness": 94,
+      "age": 3,
+      "nationality": "🇫🇷",
+      "championships": 0,
+      "image": "🌼",
+      "bio": "Don't let the name fool you - fierce competitor with a sweet tooth for victory.",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Captain Stubby",
+      "number": "44",
+      "team": "Naval Canine Force",
+      "speed": 89,
+      "fluffiness": 86,
+      "age": 4,
+      "nationality": "🇨🇦",
+      "championships": 1,
+      "image": "⚓",
+      "bio": "Former search and rescue corgi turned racer. Excellent in wet conditions.",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Professor Snoot",
+      "number": "99",
+      "team": "Academic Racers",
+      "speed": 82,
+      "fluffiness": 91,
+      "age": 6,
+      "nationality": "🇩🇪",
+      "championships": 1,
+      "image": "🎓",
+      "bio": "PhD in Aerodynamics. Applies scientific method to racing strategy.",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Duchess Floofington",
+      "number": "88",
+      "team": "Aristocratic Speedsters",
+      "speed": 91,
+      "fluffiness": 96,
+      "age": 3,
+      "nationality": "🇮🇹",
+      "championships": 0,
+      "image": "💎",
+      "bio": "Races in a custom diamond-studded collar. Insists on premium track conditions.",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Bark Hamilton",
+      "number": "44",
+      "team": "Howl-cedes Racing",
+      "speed": 94,
+      "fluffiness": 80,
+      "age": 5,
+      "nationality": "🇬🇧",
+      "championships": 4,
+      "image": "🏆",
+      "bio": "Living legend. #BlessedWithTreats. Seven-time runner-up, but who's counting?",
+      "featured": true
+    },
+    {
+      "id": 10,
+      "name": "Señor Chorizo",
+      "number": "33",
+      "team": "Fiesta Racing",
+      "speed": 87,
+      "fluffiness": 89,
+      "age": 4,
+      "nationality": "🇪🇸",
+      "championships": 0,
+      "image": "🌮",
+      "bio": "Fan favorite known for celebratory zoomies. Sponsored by local tapas bar.",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Pixel",
+      "number": "64",
+      "team": "Cyber Corgis",
+      "speed": 90,
+      "fluffiness": 75,
+      "age": 2,
+      "nationality": "🇰🇷",
+      "age": 2,
+      "championships": 0,
+      "image": "🤖",
+      "bio": "E-sports champion turned real racer. Still learning the 'smell other dogs' feature.",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Biscuit",
+      "number": "17",
+      "team": "Bakery Racers",
+      "speed": 84,
+      "fluffiness": 93,
+      "age": 3,
+      "nationality": "🇦🇺",
+      "championships": 0,
+      "image": "🍪",
+      "bio": "Runs on pure carbohydrates. Often distracted by trackside snack vendors.",
+      "featured": false
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Monaco Grand Paws",
+      "date": "2025-11-20",
+      "location": "Monte Corgi, Monaco",
+      "track": "Street Circuit",
+      "laps": 78,
+      "status": "upcoming",
+      "description": "The most prestigious race on the calendar. Narrow streets require maximum concentration and minimum butt wiggling."
+    },
+    {
+      "id": 2,
+      "name": "British Grand Paws",
+      "date": "2025-11-27",
+      "location": "Silverbone, UK",
+      "track": "High-Speed Circuit",
+      "laps": 52,
+      "status": "upcoming",
+      "description": "Historic track where legends are made. Watch for the famous Copse Corner treats station."
+    },
+    {
+      "id": 3,
+      "name": "Japanese Grand Paws",
+      "date": "2025-12-04",
+      "location": "Suzuka, Japan",
+      "track": "Technical Circuit",
+      "laps": 53,
+      "status": "upcoming",
+      "description": "Figure-eight layout tests steering precision. Post-race sushi for all participants."
+    },
+    {
+      "id": 4,
+      "name": "Italian Grand Paws",
+      "date": "2025-12-11",
+      "location": "Monza, Italy",
+      "track": "Speed Circuit",
+      "laps": 53,
+      "status": "upcoming",
+      "description": "Temple of Speed where corgis reach maximum velocity. Ears must be pinned back for aerodynamics."
+    },
+    {
+      "id": 5,
+      "name": "Australian Grand Paws",
+      "date": "2025-12-18",
+      "location": "Melbourne, Australia",
+      "track": "Street Circuit",
+      "laps": 58,
+      "status": "upcoming",
+      "description": "Season opener in the land down under. Beware of kangaroo crossing zones."
+    },
+    {
+      "id": 6,
+      "name": "Belgian Grand Paws",
+      "date": "2025-11-13",
+      "location": "Spa-Francorchomps, Belgium",
+      "track": "All-Weather Circuit",
+      "laps": 44,
+      "status": "completed",
+      "winner": "Turbo Tails",
+      "description": "Famous for unpredictable weather. Completed race saw record-breaking ear flapping."
+    }
+  ],
+  "rules": [
+    {
+      "number": "1",
+      "title": "Mandatory Ear Position",
+      "description": "Ears must remain floppy during the formation lap. Perked ears constitute an unfair aerodynamic advantage and will result in a 5-second penalty."
+    },
+    {
+      "number": "2",
+      "title": "The Sacred Butt Wiggle",
+      "description": "Excessive butt wiggling during overtaking maneuvers is prohibited, as it may hypnotize competitors. Maximum 3 wiggles per lap permitted."
+    },
+    {
+      "number": "3",
+      "title": "Treat Distribution",
+      "description": "All racers must receive equal treat distribution at pit stops. Premium treats (bacon flavor) are banned as performance-enhancing substances."
+    },
+    {
+      "number": "4",
+      "title": "Nap Time Regulations",
+      "description": "Mandatory 15-minute nap time after every 20 laps. Failure to nap results in crankiness penalties."
+    },
+    {
+      "number": "5",
+      "title": "Zoomies Zone",
+      "description": "Post-race victory zoomies must be contained within designated celebration areas. Random zoomies on track during race are grounds for disqualification."
+    },
+    {
+      "number": "6",
+      "title": "Sploot Protocol",
+      "description": "The 'sploot' position is only allowed during caution periods. Racing while splooting is dangerous and adorable, therefore illegal."
+    },
+    {
+      "number": "7",
+      "title": "Collar Regulations",
+      "description": "Racing collars must not exceed 2cm in width. Jeweled collars permitted but must not create blinding reflections that distract other racers."
+    },
+    {
+      "number": "8",
+      "title": "Bark Communications",
+      "description": "Radio communications with pit crew via barks must be clear and concise. Excessive barking at squirrels is not race-related communication."
+    },
+    {
+      "number": "9",
+      "title": "Leg Length Fairness",
+      "description": "All racers acknowledge that short legs are a feature, not a bug. Complaints about leg length ratio to body size will not be entertained."
+    },
+    {
+      "number": "10",
+      "title": "Weather Conditions",
+      "description": "In wet conditions, racers must accept that their fluff will poof to 150% normal volume. Anti-poof products are banned substances."
+    },
+    {
+      "number": "11",
+      "title": "Pit Stop Belly Rubs",
+      "description": "Mandatory belly rubs during tire changes. Minimum 3 rubs, maximum 10. Any pit crew member failing to provide adequate belly rubs faces fine."
+    },
+    {
+      "number": "12",
+      "title": "Track Limits",
+      "description": "All four paws must remain on track surface. Exceptions made for particularly exciting smells just off track - judges review on case-by-case basis."
+    }
+  ],
+  "teams": [
+    {
+      "name": "Paws Racing",
+      "principal": "Dr. Snoot McBoop",
+      "founded": 2018,
+      "championships": 3,
+      "color": "#FF0000"
+    },
+    {
+      "name": "Red Belly Racing",
+      "principal": "Patricia Fluffbottom",
+      "founded": 2020,
+      "championships": 1,
+      "color": "#0000FF"
+    },
+    {
+      "name": "Howl-cedes Racing",
+      "principal": "Wolfgang Barkson",
+      "founded": 2015,
+      "championships": 5,
+      "color": "#00D2BE"
+    }
+  ]
+}
